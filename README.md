@@ -2,12 +2,6 @@
 
 Hey there, Aishah here! :3
 
- <3 in love with crossaints
-
-☕ Fuel: 80% Coffee, 20% Debugging.
-
-🎯 Mission: Turning coffee into code and occasionally fixing bugs I created 2 hours ago. 😅
-
 
 ---
 
