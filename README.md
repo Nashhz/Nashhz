@@ -2,7 +2,7 @@
 
 Hey there, Aishah here! :3
 
-♥️ in love with crossaints
+ <3 in love with crossaints
 
 ☕ Fuel: 80% Coffee, 20% Debugging.
 
