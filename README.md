@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-custom-banner-link.com/banner.png" alt="Banner" />
+  ![Header](./github-header-image.png)
 </p>
 
 # Hi there, I’m Aishah! 👋
