@@ -5,7 +5,7 @@
 
 # Hi there, I’m Aishah! 👋
 
-🎓 **CS Student | AI Enthusiast | Cloud Explorer**
+🎓 **Fullstack Develper | AI Developer | Cloud Enthusiast**
 
 ---
 
