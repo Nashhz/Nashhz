@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="./github-header-image.png" alt="Header" />
+  <img src="./github-header-image (1)" alt="Header" />
 </p>
 
 # Hi there, I’m Aishah! 👋
