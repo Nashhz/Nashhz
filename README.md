@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  ![Header](./github-header-image.png)
+  <img src="./github-header-image.png" alt="Header" />
 </p>
 
 # Hi there, I’m Aishah! 👋
@@ -32,26 +32,26 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Aishah's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nashhz&show_icons=true&theme=radical" alt="Aishah's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Aishah's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nashhz&theme=radical" alt="Aishah's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=radical" alt="Aishah's Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nashhz&theme=radical" alt="Aishah's Activity Graph" />
 </p>
 
 ---
 
 ## 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/nur-aishah-hisham-054a13222/))
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuraishahmohdhisham@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nashhz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
