@@ -1,52 +1,57 @@
----
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-custom-banner-link.com/banner.png" alt="Banner" />
+</p>
 
-Hey there, Aishah here! :3
+# Hi there, I’m Aishah! 👋
 
-
----
-
-🛠️ What I Do
-
-🔨 Breaking code and (sometimes) fixing it.
-
-🧠 Pretending to understand StackOverflow answers.
-
-🚀 Launching apps... into the endless void of bugs.
-
-
+🎓 **CS Student | AI Enthusiast | Cloud Explorer**
 
 ---
 
-🐱‍👤 About Me
+## 🚀 About Me
 
-
-Googling error messages like a pro.
-
-Forgetting semicolons at the most inconvenient times
-
+- 🔭 Working on **FlanceBERT**, a semantic freelance job matching system using Sentence-BERT.
+- 🌱 Currently exploring **serverless architectures** with **AWS Lambda**.
+- ⚡ Passionate about **AI**, **ML**, **Data Engineering**, and **Cloud Solutions**.
 
 ---
 
-📈 GitHub Stats
+## 🛠️ Tech Stack
 
-
-Fun fact: Half of my commits are just fixing typos. (literally)
-
-
-
----
-
-📫 How to reach me
-
-Email: nuraishahmohdhisham@gmail.com (If I don’t reply, I’m probably refactoring my code... again.)
-
-Carrier Pigeon: Just kidding... or am I? 🐦
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-"In code we trust... or at least hope." 😆
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Aishah's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="Aishah's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YourUsername&theme=radical" alt="Aishah's Activity Graph" />
+</p>
 
 ---
+
+## 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
