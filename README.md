@@ -5,7 +5,7 @@
 
 # Hi there, I’m Aishah! 👋
 
-🎓 **Computer Science Grad | Fullstack Develper | AI Developer | Cloud Enthusiast**
+🎓 **Computer Science Grad | Fullstack Developer | AI Developer | Cloud Enthusiast**
 
 ---
 
